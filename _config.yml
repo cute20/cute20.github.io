@@ -199,3 +199,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+repository: cute20/cute20.github.io
+github_url: https://github.com/cute20
+url: https://cute20/cute20.github.io
